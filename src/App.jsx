@@ -12,9 +12,8 @@ const App = () => {
     <HomeCards />
     <JobListings />
     <ViewAllJobs />
-
     </>
-  )
+  );
 };
 
 export default App;
